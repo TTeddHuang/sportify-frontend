@@ -20,11 +20,7 @@ $ npm run preview
 
 ## VScode 需安裝套件
 - EditorConfig for VS Code
-![EditorConfig for VS Code](https://hackmd.io/_uploads/BysLoLUygl.png)
 - ESLint
-![ESLint](https://hackmd.io/_uploads/BksTo88kee.png)
 - Prettier - Code formatter
-![Prettier - Code formatter](https://hackmd.io/_uploads/SkKbh8LJee.png)
 - Vue - Official
-![Vue - Official](https://hackmd.io/_uploads/BJK8nIUkgg.png)
 
