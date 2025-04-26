@@ -4,8 +4,8 @@
 <div id="app">
   <h1>Vue</h1>
   <br>
-  <button type="button" class="btn btn-primary mx-2">Primary</button>
-  <button type="button" class="btn btn-secondary mx-2">Secondary</button>
+  <button type="button" class="btn btn-primary-100 mx-2">Primary</button>
+  <button type="button" class="btn btn-secondary-100 mx-2">Secondary</button>
   <button type="button" class="btn btn-success mx-2">Success</button>
   <button type="button" class="btn btn-danger mx-2">Danger</button>
   <button type="button" class="btn btn-warning mx-2">Warning</button>
